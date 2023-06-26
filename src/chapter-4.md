@@ -1,7 +1,7 @@
 Chapter 3: Introduction to ChatGPT
 ==================================
 
-ChatGPT is an AI-powered language model based on OpenAI's GPT-3 technology. It has become a valuable tool for the media industry, providing companies with new ways to engage with their audiences and deliver personalized content. In this chapter, we will explore what ChatGPT is, its features, advantages of using it in personalized content delivery for the media industry, and some case studies.
+ChatGPT is an AI-powered language model based on OpenAI's GPT-3.5 technology. It has become a valuable tool for the media industry, providing companies with new ways to engage with their audiences and deliver personalized content. In this chapter, we will explore what ChatGPT is, its features, advantages of using it in personalized content delivery for the media industry, and some case studies.
 
 What is ChatGPT?
 ----------------
