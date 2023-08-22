@@ -1,5 +1,4 @@
-Challenges and Limitations of Using Chatbots in Media Industry
-============================================================================================================
+
 
 Chatbots and AI have become increasingly popular tools for the media industry, allowing companies to engage with their audiences more effectively. However, there are also challenges and limitations associated with using chatbots in the media industry. In this chapter, we will explore some of these challenges and limitations.
 

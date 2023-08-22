@@ -1,5 +1,4 @@
-Types of Chatbots Used in Media Industry
-======================================================================================
+
 
 Chatbots and AI have become increasingly popular tools for the media industry, providing companies with new ways to engage with their audiences. In this chapter, we will explore the different types of chatbots used in the media industry.
 

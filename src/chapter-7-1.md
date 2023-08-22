@@ -1,5 +1,4 @@
-Emerging Trends in Chatbots and AI in Personalized Content Delivery for Media Industry
-======================================================================================================================================================================================================
+
 
 As the media industry continues to evolve, so do the trends and directions in chatbots and AI in personalized content delivery. In this chapter, we will discuss some of the emerging trends and directions in chatbots and AI and their potential impact on personalized content delivery for the media industry.
 

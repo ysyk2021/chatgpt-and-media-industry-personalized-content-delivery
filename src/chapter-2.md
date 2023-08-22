@@ -1,5 +1,4 @@
-Chapter 1: Understanding Media Industry
-=======================================
+
 
 The media industry is a diverse and rapidly evolving space that encompasses a wide range of activities, including news reporting, entertainment, advertising, and more. In this chapter, we will provide an overview of the media industry, including its history and evolution, the types of media used today, and the limitations and challenges facing the industry.
 

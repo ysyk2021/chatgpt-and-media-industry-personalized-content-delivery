@@ -1,5 +1,4 @@
-What is Media Industry?
-================================================================
+
 
 The media industry can be broadly defined as any industry that involves the creation, production, distribution, and consumption of media content. This includes traditional forms of media such as print, broadcast, and outdoor advertising, as well as newer forms of media such as digital and social media.
 

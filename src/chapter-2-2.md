@@ -1,5 +1,4 @@
-The History and Evolution of Media Industry
-====================================================================================
+
 
 The media industry has a rich and complex history that spans hundreds of years. In this chapter, we will provide an overview of the history and evolution of the media industry.
 

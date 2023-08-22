@@ -1,5 +1,4 @@
-Chapter 2: Chatbots and AI in Media Industry
-============================================
+
 
 Chatbots and AI have transformed the media industry, providing companies with new ways to engage with their audiences and deliver personalized content. In this chapter, we will provide an overview of chatbots and AI in the media industry, explore their advantages, and discuss the types of chatbots used in the media industry. We will also examine the challenges and limitations of using chatbots in the media industry.
 

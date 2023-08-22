@@ -1,5 +1,4 @@
-Chapter 5: Implementation of ChatGPT in Personalized Content Delivery for Media Industry
-========================================================================================
+
 
 The media industry is constantly evolving, and personalized content delivery is becoming increasingly important in keeping up with consumer demands. ChatGPT can play a crucial role in delivering personalized content to users by providing them with a conversational interface that understands their preferences and interests. In this chapter, we will discuss the implementation of ChatGPT in personalized content delivery for the media industry.
 

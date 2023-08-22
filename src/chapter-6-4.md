@@ -1,5 +1,4 @@
-Evaluating ChatGPT's Performance and Effectiveness in Personalized Content Delivery for Media Industry
-================================================================================================================================================================================================
+
 
 Implementing ChatGPT in personalized content delivery for the media industry is a complex process that requires careful planning and execution. In this chapter, we will discuss how to evaluate ChatGPT's performance and effectiveness in personalized content delivery for the media industry.
 
