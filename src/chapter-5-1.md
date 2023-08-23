@@ -1,5 +1,4 @@
 
-
 In order to deliver personalized content recommendations to individual users, ChatGPT uses a variety of techniques. In this chapter, we will explore how ChatGPT works in personalized content delivery for the media industry.
 
 Natural Language Processing (NLP)

@@ -1,5 +1,4 @@
 
-
 The media industry is a diverse and evolving space that encompasses a wide range of media types. In this chapter, we will provide an overview of the different types of media used in the media industry today.
 
 Print Media

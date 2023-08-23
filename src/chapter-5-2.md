@@ -1,5 +1,4 @@
 
-
 In order to deliver personalized content recommendations to individual users, ChatGPT uses a variety of personalization techniques. In this chapter, we will explore some of the most common personalization techniques used in ChatGPT for the media industry.
 
 Collaborative Filtering

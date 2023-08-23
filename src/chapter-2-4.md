@@ -1,5 +1,4 @@
 
-
 The media industry is a rapidly evolving space that faces several limitations and challenges. In this chapter, we will explore some of the key limitations and challenges facing the media industry today.
 
 Limitations of Media Industry
